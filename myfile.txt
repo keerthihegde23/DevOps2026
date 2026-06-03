@@ -1,3 +1,4 @@
 this is myfile
 this is appended content
 this is appended using echo
+This is stashed content
