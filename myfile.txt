@@ -5,4 +5,3 @@ This is stashed content
 this is to check poll SCM
 this is to check webhook
 
-this is practice
